@@ -4,10 +4,10 @@
 ---
 # Bird Nest
 ---
-# Contents
+## Contents
 * Temporary title
 * Improvement
-* Power Consumption Estimate
+* Power consumption estimate
 ---
 ## Temporary title
 Energy-Efficient Environmental Monitoring System Using Deep Learning for Wireless Image Sensor Networks
